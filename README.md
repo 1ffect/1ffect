@@ -12,17 +12,28 @@
 
 <br><br>
 
-<!-- GitHub Stats -->
-<a href="https://github.com/1ffect">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ffect&theme=github_dark" height="150" />
-</a>
-<a href="https://github.com/1ffect">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ffect&theme=github_dark" height="150" />
-</a>
+<!-- Tech Stack -->
+
+`languages`
+
+![Python](https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=6e7681)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=6e7681)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=6e7681)
+![Go](https://img.shields.io/badge/Go-1a1b27?style=flat-square&logo=go&logoColor=6e7681)
+![Rust](https://img.shields.io/badge/Rust-1a1b27?style=flat-square&logo=rust&logoColor=6e7681)
+![C++](https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=6e7681)
+![Java](https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=6e7681)
+![Swift](https://img.shields.io/badge/Swift-1a1b27?style=flat-square&logo=swift&logoColor=6e7681)
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ffect&theme=github_dark" width="90%" />
+`tools`
+
+![React](https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=6e7681)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=6e7681)
+![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=6e7681)
+![Figma](https://img.shields.io/badge/Figma-1a1b27?style=flat-square&logo=figma&logoColor=6e7681)
+![Unity](https://img.shields.io/badge/Unity-1a1b27?style=flat-square&logo=unity&logoColor=6e7681)
 
 <br><br>
 
