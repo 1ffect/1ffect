@@ -24,6 +24,18 @@
 ![C++](https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=cplusplus&logoColor=6e7681)
 ![Java](https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=6e7681)
 ![Swift](https://img.shields.io/badge/Swift-1a1b27?style=flat-square&logo=swift&logoColor=6e7681)
+![SQL](https://img.shields.io/badge/SQL-1a1b27?style=flat-square&logo=postgresql&logoColor=6e7681)
+
+<br>
+
+`ai / ml`
+
+![OpenAI](https://img.shields.io/badge/OpenAI-1a1b27?style=flat-square&logo=openai&logoColor=6e7681)
+![Claude](https://img.shields.io/badge/Claude-1a1b27?style=flat-square&logo=anthropic&logoColor=6e7681)
+![LangChain](https://img.shields.io/badge/LangChain-1a1b27?style=flat-square&logo=langchain&logoColor=6e7681)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1b27?style=flat-square&logo=huggingface&logoColor=6e7681)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1b27?style=flat-square&logo=pytorch&logoColor=6e7681)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-1a1b27?style=flat-square&logo=stability-ai&logoColor=6e7681)
 
 <br>
 
@@ -34,6 +46,10 @@
 ![Docker](https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=6e7681)
 ![Figma](https://img.shields.io/badge/Figma-1a1b27?style=flat-square&logo=figma&logoColor=6e7681)
 ![Unity](https://img.shields.io/badge/Unity-1a1b27?style=flat-square&logo=unity&logoColor=6e7681)
+![Notion](https://img.shields.io/badge/Notion-1a1b27?style=flat-square&logo=notion&logoColor=6e7681)
+![Jira](https://img.shields.io/badge/Jira-1a1b27?style=flat-square&logo=jira&logoColor=6e7681)
+![Vercel](https://img.shields.io/badge/Vercel-1a1b27?style=flat-square&logo=vercel&logoColor=6e7681)
+![Supabase](https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=6e7681)
 
 <br><br>
 
