@@ -72,12 +72,12 @@
 <!--  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 ```
-よく関わるものは、いつかは別れなきゃならなくなる。
+the quieter you become, the more you can hear.
 ```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=1ffect&style=for-the-badge&color=0d1117&label=&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=1ffect&style=flat-square&color=f6f8fa&label=visitors&labelColor=f6f8fa&labelTextColor=24292f" />
 
 <br><br>
 
