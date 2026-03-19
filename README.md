@@ -50,7 +50,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=1ffect&style=flat-square&color=161b22&label=" />
+<img src="https://komarev.com/ghpvc/?username=1ffect&style=for-the-badge&color=0d1117&label=&labelColor=0d1117" />
 
 <br><br>
 
