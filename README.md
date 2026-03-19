@@ -12,15 +12,20 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=1ffect&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=6e7681&icon_color=3b4048&ring_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true" height="150" />
+<!-- GitHub Stats - 使用 github-readme-stats 官方备用实例 -->
+<a href="https://github.com/1ffect">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1ffect&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=6e7681&icon_color=3b4048&ring_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true" height="150" />
+</a>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ffect&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=6e7681&langs_count=6&hide_title=true" height="130" />
+<a href="https://github.com/1ffect">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ffect&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=6e7681&langs_count=6&hide_title=true" height="130" />
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=1ffect&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=3b4048&stroke=00000000" height="150" />
+<img src="https://streak-stats.demolab.com?user=1ffect&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=3b4048&stroke=00000000" height="150" />
 
 <br><br>
 
@@ -32,7 +37,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1ffect&bg_color=00000000&color=6e7681&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=" height="250" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1ffect&bg_color=00000000&color=6e7681&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=%20" height="250" />
 
 <br><br>
 
