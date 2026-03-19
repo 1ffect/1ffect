@@ -12,16 +12,17 @@
 
 <br><br>
 
-<!-- GitHub Stats - 使用 github-readme-stats 官方备用实例 -->
+<!-- GitHub Stats -->
 <a href="https://github.com/1ffect">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1ffect&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=6e7681&icon_color=3b4048&ring_color=58a6ff&hide_title=true&hide_rank=true&include_all_commits=true" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1ffect&theme=github_dark" height="150" />
+</a>
+<a href="https://github.com/1ffect">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1ffect&theme=github_dark" height="150" />
 </a>
 
 <br>
 
-<a href="https://github.com/1ffect">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1ffect&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=6e7681&langs_count=6&hide_title=true" height="130" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ffect&theme=github_dark" width="90%" />
 
 <br><br>
 
