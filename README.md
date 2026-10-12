@@ -57,9 +57,6 @@
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg" width="90%" />
 </picture>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1ffect&bg_color=00000000&color=6e7681&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=%20" height="250" />
 
 <br><br>
 
@@ -67,9 +64,6 @@
 
 `the quieter you become, the more you can hear.`
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=1ffect&style=flat-square&color=f6f8fa&label=visitors&labelColor=f6f8fa&labelTextColor=24292f" />
 
 <br><br>
 
