@@ -6,7 +6,7 @@
 
 `1ffect`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=6e7681&center=true&vCenter=true&width=450&lines=ai+product+manager+%2F+data+engineer;building+agentic+saas;AI+&+DS+%40+usyd;crafting+3d+web+experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=6e7681&center=true&vCenter=true&width=450&lines=ai+product+manager+%2F+data+engineer;building+agentic+saas;AI+DS+%40+usyd;crafting+3d+web+experiences" alt="Typing SVG" />
 
 <br><br>
 
