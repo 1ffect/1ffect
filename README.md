@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2431&height=180&section=header&text=&fontSize=0](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2431&height=180&section=header&text=&fontSize=0)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2431&height=180&section=header&text=&fontSize=0" width="100%" />
 
 <br>
 
-```text
-1ffect
-```
+`1ffect`
 
-<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=6e7681&center=true&vCenter=true&width=450&lines=ai+product+manager+%2F+data+engineer;building+agentic+saas;data+engineering+%40+usyd;crafting+3d+web+experiences](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=6e7681&center=true&vCenter=true&width=450&lines=ai+product+manager+%2F+data+engineer;building+agentic+saas;data+engineering+%40+usyd;crafting+3d+web+experiences)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=2000&color=6e7681&center=true&vCenter=true&width=450&lines=ai+product+manager+%2F+data+engineer;building+agentic+saas;data+engineering+%40+usyd;crafting+3d+web+experiences" alt="Typing SVG" />
 
 <br><br>
 
@@ -49,35 +47,33 @@
 
 <br><br>
 
-<img src="[https://streak-stats.demolab.com?user=1ffect&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=3b4048&stroke=00000000](https://streak-stats.demolab.com?user=1ffect&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=3b4048&stroke=00000000)" height="150" />
+<img src="https://streak-stats.demolab.com?user=1ffect&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=6e7681&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=3b4048&stroke=00000000" height="150" />
 
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg](https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake.svg](https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake.svg)" />
-  <img alt="snake eating contributions" src="[https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg](https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg)" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/1ffect/1ffect/output/github-snake-dark.svg" width="90%" />
 </picture>
 
 <br><br>
 
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=1ffect&bg_color=00000000&color=6e7681&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=%20](https://github-readme-activity-graph.vercel.app/graph?username=1ffect&bg_color=00000000&color=6e7681&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=%20)" height="250" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1ffect&bg_color=00000000&color=6e7681&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=%20" height="250" />
 
 <br><br>
 
 <!--  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-```text
-the quieter you become, the more you can hear.
-```
+`the quieter you become, the more you can hear.`
 
 <br>
 
-<img src="[https://komarev.com/ghpvc/?username=1ffect&style=flat-square&color=f6f8fa&label=visitors&labelColor=f6f8fa&labelTextColor=24292f](https://komarev.com/ghpvc/?username=1ffect&style=flat-square&color=f6f8fa&label=visitors&labelColor=f6f8fa&labelTextColor=24292f)" />
+<img src="https://komarev.com/ghpvc/?username=1ffect&style=flat-square&color=f6f8fa&label=visitors&labelColor=f6f8fa&labelTextColor=24292f" />
 
 <br><br>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1c2431,50:161b22,100:0d1117&height=120&section=footer&text=&fontSize=0](https://capsule-render.vercel.app/api?type=waving&color=0:1c2431,50:161b22,100:0d1117&height=120&section=footer&text=&fontSize=0)" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2431,50:161b22,100:0d1117&height=120&section=footer&text=&fontSize=0" width="100%" />
 
 </div>
 
